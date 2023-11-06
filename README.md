@@ -5,4 +5,6 @@ You will create your first machine in VirtualBox (or UTM if you can’t use Virt
 
 • The use of VirtualBox (or UTM if you can’t use VirtualBox) is mandatory. \
 • You only have to turn in a signature.txt file at the root of your repository. \
-• There are already too many guides and places to help you in this project so i will keep this page simple. Go to [Pasqual Rossi GITHUB](https://github.com/pasqualerossi) or [Jotavare](https://github.com/jotavare) they have sections with resources to help you finding information on the topic.
+• There are already too many guides and places to help you in this project so i will keep this page simple. Go to [Pasqual Rossi](https://github.com/pasqualerossi) or [Jotavare](https://github.com/jotavare) they have sections with resources to help you finding information on the topic. \
+• In my opinion the latter is a better option with diverse resource sources.
+• Have fun with your project, try learning has much as you can.
